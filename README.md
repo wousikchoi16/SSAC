@@ -1,1 +1,1 @@
-# SSAC
+# Seoul Software Academy
